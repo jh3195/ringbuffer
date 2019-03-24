@@ -1,3 +1,3 @@
 # ringbuffer implementation
 
-generic ringbuffer or doubly linked list implementation with reference to princeton's algs4.jar
+generic ringbuffer implementation with reference to princeton's algs4.jar
